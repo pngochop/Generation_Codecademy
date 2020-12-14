@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Generation_Codecademy/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Generation_Codecademy/static/js/main.079a411d.chunk.js",
-    "main.js.map": "/Generation_Codecademy/static/js/main.079a411d.chunk.js.map",
+    "main.js": "/Generation_Codecademy/static/js/main.986252a9.chunk.js",
+    "main.js.map": "/Generation_Codecademy/static/js/main.986252a9.chunk.js.map",
     "runtime-main.js": "/Generation_Codecademy/static/js/runtime-main.eb185a5f.js",
     "runtime-main.js.map": "/Generation_Codecademy/static/js/runtime-main.eb185a5f.js.map",
-    "static/js/2.d49d3545.chunk.js": "/Generation_Codecademy/static/js/2.d49d3545.chunk.js",
-    "static/js/2.d49d3545.chunk.js.map": "/Generation_Codecademy/static/js/2.d49d3545.chunk.js.map",
+    "static/js/2.15726c72.chunk.js": "/Generation_Codecademy/static/js/2.15726c72.chunk.js",
+    "static/js/2.15726c72.chunk.js.map": "/Generation_Codecademy/static/js/2.15726c72.chunk.js.map",
     "static/js/3.26191f52.chunk.js": "/Generation_Codecademy/static/js/3.26191f52.chunk.js",
     "static/js/3.26191f52.chunk.js.map": "/Generation_Codecademy/static/js/3.26191f52.chunk.js.map",
     "index.html": "/Generation_Codecademy/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/Generation_Codecademy/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.d49d3545.chunk.js.LICENSE.txt": "/Generation_Codecademy/static/js/2.d49d3545.chunk.js.LICENSE.txt"
+    "static/js/2.15726c72.chunk.js.LICENSE.txt": "/Generation_Codecademy/static/js/2.15726c72.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb185a5f.js",
-    "static/js/2.d49d3545.chunk.js",
+    "static/js/2.15726c72.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.079a411d.chunk.js"
+    "static/js/main.986252a9.chunk.js"
   ]
 }
