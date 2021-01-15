@@ -10,7 +10,7 @@ import SearchBar from '../SearchBar/SearchBar';
 function FectDataF() {
   // Component variables go here
   const [persions, setPersons] = useState(null);
-  const apiURL = "/contacts?memberid=72";
+  const apiURL = "https://hopp-lab4-backend.herokuapp.com/contacts?memberid=72";
   // fetch data from server
     const fetchData = async () => {
         const response = await axios.post(apiURL, {"memberid":72})
